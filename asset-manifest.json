@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stark-ts/static/css/main.fee637d5.css",
-    "main.js": "/stark-ts/static/js/main.fd58cde7.js",
+    "main.js": "/stark-ts/static/js/main.6192c615.js",
     "static/js/94.ab906d44.chunk.js": "/stark-ts/static/js/94.ab906d44.chunk.js",
     "static/js/914.99a5211f.chunk.js": "/stark-ts/static/js/914.99a5211f.chunk.js",
     "static/js/333.341eb61d.chunk.js": "/stark-ts/static/js/333.341eb61d.chunk.js",
@@ -43,7 +43,7 @@
     "static/js/419.a2f979a1.chunk.js": "/stark-ts/static/js/419.a2f979a1.chunk.js",
     "index.html": "/stark-ts/index.html",
     "main.fee637d5.css.map": "/stark-ts/static/css/main.fee637d5.css.map",
-    "main.fd58cde7.js.map": "/stark-ts/static/js/main.fd58cde7.js.map",
+    "main.6192c615.js.map": "/stark-ts/static/js/main.6192c615.js.map",
     "94.ab906d44.chunk.js.map": "/stark-ts/static/js/94.ab906d44.chunk.js.map",
     "914.99a5211f.chunk.js.map": "/stark-ts/static/js/914.99a5211f.chunk.js.map",
     "333.341eb61d.chunk.js.map": "/stark-ts/static/js/333.341eb61d.chunk.js.map",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.fee637d5.css",
-    "static/js/main.fd58cde7.js"
+    "static/js/main.6192c615.js"
   ]
 }
